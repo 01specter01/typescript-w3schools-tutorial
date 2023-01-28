@@ -20,3 +20,11 @@
 // console.log(mussleCar);
 // p.innerText = mussleCar;
 // console.log("best");
+// enum Directions {
+//     Nort,
+//     East,
+//     South,
+//     West
+// } 
+// const newDirection = Directions.East;
+// console.log(newDirection);
