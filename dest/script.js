@@ -11,11 +11,11 @@
 // console.log(
 //     `the age was ${ourTouple[0]}, the text was ${ourTouple[1]}, but it read like this: ${ourTouple[2]}`
 // );
-const app = document.getElementById("app");
-const p = document.createElement("p");
-app === null || app === void 0 ? void 0 : app.appendChild(p);
-const vehicles = ["mustang", "f1-50", "mercedes a-class"];
-const [mussleCar, truck, limosine] = vehicles;
-console.log(mussleCar);
-p.innerText = mussleCar;
-console.log("best");
+// const app = document.getElementById("app");
+// const p = document.createElement("p");
+// app?.appendChild(p);
+// const vehicles = ["mustang", "f1-50", "mercedes a-class"];
+// const [mussleCar, truck, limosine] = vehicles;
+// console.log(mussleCar);
+// p.innerText = mussleCar;
+// console.log("best");
